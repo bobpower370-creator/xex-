@@ -1,0 +1,5 @@
+{
+  "name": "XEX-Ray AI Decompiler",
+  "description": "An AI-powered reverse engineering tool for .xex binaries (Atari/Xbox). It disassembles machine code and uses Gemini to reconstruct C++ logic.",
+  "requestFramePermissions": []
+}
